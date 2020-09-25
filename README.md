@@ -41,3 +41,8 @@ I am Shikhar Jaiswal, a Developer and Programmer with a high degree of interest 
 [6]: http://www.github.com/carlsednaoui
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fshikhar1020jais1%2Fhit-counter" alt="Hits">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar1020jais1&layout=compact&hide=html" />
+
