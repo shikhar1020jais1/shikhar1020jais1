@@ -3,7 +3,7 @@
 
 # Shikhar Jaiswal
 
-I am Shikhar Jaiswal, a Developer and Programmer with a high degree of interest in Research and Innovation. I am currently a student, pursuing my B.Tech at Presidency University, Bengaluru. I like dabbling in various parts of Computer Vision and like to learn about new technologies, read technical articles or simply play games in my free time. I am a self taught Developer, currently diving deeper into Machine Learning and Artificial Intelligence.
+I am Shikhar Jaiswal, a Developer and Programmer with a high degree of interest in Research and Innovation. I am currently a student, pursuing my B.Tech at Presidency University, Bengaluru. I like dabbling in various parts of Software Development and like to learn about new technologies, read technical articles or simply play games in my free time. I am a self taught Developer, currently diving deeper into Machine Learning and Artificial Intelligence.
 
 
 <!-- display the social media buttons in your README -->
