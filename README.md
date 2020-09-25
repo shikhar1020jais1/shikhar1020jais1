@@ -38,7 +38,7 @@ I am Shikhar Jaiswal, a Developer and Programmer with a high degree of interest 
 [1]: http://www.twitter.com/_shikhar_jais
 [2]: http://www.facebook.com/shikhar.jai1
 [4]: http://shikhar-jais.tumblr.com
-[6]: http://www.github.com/carlsednaoui
+[6]: http://www.github.com/shikhar1020jais1
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
