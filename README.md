@@ -19,10 +19,10 @@ I am Shikhar Jaiswal, a Developer and Programmer with a high degree of interest 
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter )
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr)
+[6.1]: http://i.imgur.com/0o48UoR.png (github)
 
 <!-- icons without padding -->
 
