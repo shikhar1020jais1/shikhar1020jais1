@@ -43,9 +43,9 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [13]: https://dev.to/shikhar1020jais1
 [14]: https://medium.com/@shikhar1020jais1
 
-### Get
+## Download
 
-[![resume](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/resume1.png (resume))][15]
+[![resume](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/resume2.png (resume))][15]
 
 [15]: https://drive.google.com/file/d/1VbljCZ2TKQSE0Uycy--skAFtJZkKUn__/view?usp=sharing
 
