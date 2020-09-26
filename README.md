@@ -35,13 +35,14 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [11]: https://hackerearth.com/@shikhar381
 
 ### Others @
-[![medium](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Medium.png (Medium))][12]
+[![kaggle](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Kaggle.png (Kaggle))][12]
 [![dev.to](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Dev.to.png (dev.to))][13]
-[![kaggle](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Kaggle.png (Kaggle))][14]
+[![medium](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Medium.png (Medium))][14]
 
-[12]: https://medium.com/@shikhar1020jais1
+[12]: https://kaggle.com/shikhar1020jais
 [13]: https://dev.to/shikhar1020jais1
-[14]: https://kaggle.com/shikhar1020jais
+[14]: https://medium.com/@shikhar1020jais1
+
 
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fshikhar1020jais1%2Fhit-counter" alt="Hits">
