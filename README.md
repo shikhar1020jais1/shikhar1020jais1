@@ -20,13 +20,29 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [3]: https://www.twitter.com/_shikhar_jais
 [4]: https://www.github.com/shikhar1020jais1
 [5]: https://www.linkedin.com/in/shikhar1020jais
-[6]: https://in.pinterest.com/shikhar1020jais/_saved/
+[6]: https://in.pinterest.com/shikhar1020jais
 [7]: https://shikhar-jais.tumblr.com
 
 ### Competitive Programmer @
-### Others
+[![hackerrank](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Hackerrank.png (Hackerrank))][8]
+[![codechef](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Codechef.png (Codechef))][9]
+[![topcoder](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Topcoder.png (Topcoder))][10]
+[![hackerearth](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/hackerearth.png (HackerEarth))][11]
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+[8]: https://hackerrank.com/shikhar1020jais1
+[9]: https://codechef.com/users/shikhar_jais
+[10]: https://topcoder.com/members/shikhar1020jais
+[11]: https://hackerearth.com/@shikhar381
+
+### Others
+[![medium](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Medium.png (Medium))][12]
+[![dev.to](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Dev.to.png (dev.to))][13]
+[![kaggle](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Kaggle.png (Kaggle))][14]
+
+[12]: https://medium.com/@shikhar1020jais1
+[13]: https://dev.to/shikhar1020jais1
+[14]: https://kaggle.com/shikhar1020jais
+
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fshikhar1020jais1%2Fhit-counter" alt="Hits">
 
