@@ -34,7 +34,7 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [10]: https://topcoder.com/members/shikhar1020jais
 [11]: https://hackerearth.com/@shikhar381
 
-### Others@
+### Others @
 [![medium](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Medium.png (Medium))][12]
 [![dev.to](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Dev.to.png (dev.to))][13]
 [![kaggle](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Kaggle.png (Kaggle))][14]
