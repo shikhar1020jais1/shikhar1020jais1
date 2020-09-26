@@ -18,8 +18,8 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [1]: https://www.facebook.com/shikhar.jai1
 [2]: https://www.instagram.com/_shikhar_jais
 [3]: https://www.twitter.com/_shikhar_jais
-[4]: https://www.github.com/shikhar1020jais1
-[5]: https://www.linkedin.com/in/shikhar1020jais
+[4]: https://www.linkedin.com/in/shikhar1020jais
+[5]: https://www.github.com/shikhar1020jais1
 [6]: https://in.pinterest.com/shikhar1020jais
 [7]: https://shikhar-jais.tumblr.com
 
