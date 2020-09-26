@@ -8,36 +8,13 @@ I am Shikhar Jaiswal, a Developer and Programmer with a high degree of interest 
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][4.1]][4]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter )
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr)
-[6.1]: http://i.imgur.com/0o48UoR.png (github)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
 [1]: http://www.twitter.com/_shikhar_jais
 [2]: http://www.facebook.com/shikhar.jai1
-[4]: http://shikhar-jais.tumblr.com
+[3]: http://shikhar-jais.tumblr.com
 [6]: http://www.github.com/shikhar1020jais1
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
