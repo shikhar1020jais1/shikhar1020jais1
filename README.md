@@ -26,7 +26,7 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 ### Competitive Programmer @
 [![hackerrank](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Hackerrank1.png (Hackerrank))][8]
 [![codechef](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Codechef1.png (Codechef))][9]
-[![topcoder](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Topcoder1.png (Topcoder))][10]
+[![topcoder](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Topcoder2.png (Topcoder))][10]
 [![hackerearth](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/hackerearth1.png (HackerEarth))][11]
 
 [8]: https://hackerrank.com/shikhar1020jais1
