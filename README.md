@@ -7,7 +7,7 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 
 ### Profiles @
 <!-- display the social media buttons in your README -->
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook1.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
