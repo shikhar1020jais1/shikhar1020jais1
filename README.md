@@ -8,12 +8,12 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 ### Profiles @
 <!-- display the social media buttons in your README -->
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook1.png (Facebook))][1]
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
-[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
-[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram1.png (Instagram))][2]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter1.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (LinkedIn))][4]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github1.png (Github))][5]
+[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest1.png (Pinterest))][6]
+[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr1.png (Tumblr))][7]
 
 [1]: https://www.facebook.com/shikhar.jai1
 [2]: https://www.instagram.com/_shikhar_jais
