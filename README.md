@@ -24,10 +24,10 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [7]: https://shikhar-jais.tumblr.com
 
 ### Competitive Programmer @
-[![hackerrank](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Hackerrank.png (Hackerrank))][8]
-[![codechef](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Codechef.png (Codechef))][9]
-[![topcoder](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Topcoder.png (Topcoder))][10]
-[![hackerearth](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/hackerearth.png (HackerEarth))][11]
+[![hackerrank](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Hackerrank1.png (Hackerrank))][8]
+[![codechef](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Codechef1.png (Codechef))][9]
+[![topcoder](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Topcoder1.png (Topcoder))][10]
+[![hackerearth](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/hackerearth1.png (HackerEarth))][11]
 
 [8]: https://hackerrank.com/shikhar1020jais1
 [9]: https://codechef.com/users/shikhar_jais
