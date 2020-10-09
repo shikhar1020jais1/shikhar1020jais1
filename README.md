@@ -5,8 +5,7 @@
 
 I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree of interest in Research and Innovation. I am currently a student, pursuing my B.Tech at Presidency University, Bengaluru. I like dabbling in various parts of Software Development and like to learn about new technologies, read technical articles or simply play games in my free time. I am a self taught Developer, currently diving deeper into Machine Learning and Artificial Intelligence.
 
-### Profiles @
-<!-- display the social media buttons in your README -->
+### Profiles @ 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook1.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram1.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter1.png (Twitter))][3]
@@ -43,9 +42,11 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [13]: https://dev.to/shikhar1020jais1
 [14]: https://medium.com/@shikhar1020jais1
 
+<br>
+
 # Downloads
 
-## Resume [![resume](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/resume11.png (resume))][15]
+## .................Resume [![resume](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/resume11.png (resume))][15]
 
 [15]: https://drive.google.com/file/d/1VbljCZ2TKQSE0Uycy--skAFtJZkKUn__/view?usp=sharing
 
