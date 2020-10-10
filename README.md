@@ -1,5 +1,5 @@
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fshikhar1020jais1%2Fhit-counter" alt="Hits">
 ## Hi there 👋
+
 
 # Shikhar Jaiswal
 
@@ -52,7 +52,7 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 
 
 
-
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fshikhar1020jais1%2Fhit-counter" alt="Hits">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar1020jais1&layout=compact&hide=html" />
 
 
