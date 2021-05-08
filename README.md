@@ -44,13 +44,6 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 
 
 
-# Downloads
-
-[![resume](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/resume11.png (Resume))][15]
-
-[15]: https://drive.google.com/file/d/1VbljCZ2TKQSE0Uycy--skAFtJZkKUn__/view?usp=sharing
-
-
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fshikhar1020jais1%2Fhit-counter" alt="Hits">
 
