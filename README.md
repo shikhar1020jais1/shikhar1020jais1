@@ -12,7 +12,7 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (LinkedIn))][4]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github1.png (Github))][5]
 [![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest1.png (Pinterest))][6]
-[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr1.png (Tumblr))][7]
+<!-- [![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr1.png (Tumblr))][7] -->
 
 [1]: https://www.facebook.com/shikhar.jai1
 [2]: https://www.instagram.com/_shikhar_jais
@@ -20,7 +20,7 @@ I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree 
 [4]: https://www.linkedin.com/in/shikhar1020jais
 [5]: https://www.github.com/shikhar1020jais1
 [6]: https://in.pinterest.com/shikhar1020jais
-[7]: https://shikhar-jais.tumblr.com
+<!-- [7]: https://shikhar-jais.tumblr.com -->
 
 ### Competitive Programmer @
 [![hackerrank](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Hackerrank1.png (Hackerrank))][8]
