@@ -3,7 +3,15 @@
 
 # Shikhar Jaiswal
 
-I am Shikhar Jaiswal, a Developer and Competitive Programmer with a high degree of interest in Research and Innovation. I have pursued my B.Tech from Presidency University, Bengaluru. I like dabbling in various parts of Software Development and like to learn about new technologies, read technical articles or simply play games in my free time. I am a self taught Developer, currently diving deeper into Machine Learning and Artificial Intelligence.
+Hi, I'm Shikhar Jaiswal, a relentless explorer of the fascinating intersections between artificial intelligence, robotics, and emerging technologies. My journey is driven by an unwavering passion for building innovative solutions, continuously learning, and sharing knowledge. I believe that the most impactful solutions arise from embracing new insights, questioning conventional approaches, and pushing the boundaries of what’s possible.
+
+I'm deeply captivated by how analytical thinking, complex algorithms, and intelligent systems converge to solve intricate real-world challenges. The way computational logic and artificial intelligence work together to transform industries and redefine possibilities truly excites me. 
+
+In my free time, I enjoy immersing myself in strategic games, delving into technical articles and research papers, and exploring diverse series that spark new ideas.
+
+Freelancing and consulting across other tech domains allows me to continuously expand my knowledge, adapt to evolving technologies, and gain fresh perspectives. This dynamic approach keeps me agile, enabling me to deliver impactful solutions and make meaningful contributions to the ever-evolving technology landscape.
+
+For me, it’s all about building innovative solutions, deepening my understanding, and sharing knowledge to drive technological advancement.
 
 ### Profiles @
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook1.png (Facebook))][1]
